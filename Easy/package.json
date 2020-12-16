@@ -1,0 +1,25 @@
+{
+  "name": "week13",
+  "version": "1.0.1",
+  "description": "words ",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "rudy",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodriguezr18/week13.git"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "bugs": {
+    "url": "https://github.com/rodriguezr18/week13/issues"
+  },
+  "homepage": "https://github.com/rodriguezr18/week13#readme"
+}
